@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T102932Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=16b265ca7fbad6a06bc626475169a349ae9e2b434e6d451fb0275f1e46ba537d"https://github.com/VictorJoseph/AirBnB_clone/blob/master/65f4a1dd9c51265f49d0.png?raw=true" alt="HolbertonBnB logo">i
+  <img src=https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241114T102932Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=16b265ca7fbad6a06bc626475169a349ae9e2b434e6d451fb0275f1e46ba537d
 </p>
 
 <h1 align="center">HolbertonBnB</h1>
